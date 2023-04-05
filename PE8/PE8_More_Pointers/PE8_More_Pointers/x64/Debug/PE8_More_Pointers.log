@@ -1,0 +1,5 @@
+﻿  PE8_More_Pointers.cpp
+C:\209 Repo\PE8\PE8_More_Pointers\PE8_More_Pointers\PE8_More_Pointers.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+C:\209 Repo\PE8\PE8_More_Pointers\PE8_More_Pointers\PE8_More_Pointers.cpp(96,20): warning C4018: '<': signed/unsigned mismatch
+C:\209 Repo\PE8\PE8_More_Pointers\PE8_More_Pointers\PE8_More_Pointers.cpp(87): warning C4172: returning address of local variable or temporary: myArray
+  PE8_More_Pointers.vcxproj -> C:\209 Repo\PE8\PE8_More_Pointers\x64\Debug\PE8_More_Pointers.exe
